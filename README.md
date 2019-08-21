@@ -1,6 +1,6 @@
 # Marek Cichy - Curriculum
 
-## My next goal
+## My current goal
 First full-time professional experience with Natural Language Processing (NLP)
 
 ## My background
