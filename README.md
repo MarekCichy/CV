@@ -5,7 +5,7 @@ First full-time professional experience with Natural Language Processing (NLP)
 
 ## My background
 Warsaw-based Polish-Portuguese translator and interpreter with 8 years of experience. In this time I've:
-- translated over XX pages, served as an interpreter for XX hours. 
+- translated over 4000 pages, served as an interpreter for about 400 hours. 
 - created and managed <a href="https://audioteka.com/es/">Audioteka.es</a>, the Spanish-speaking version of a Polish audiobook startup
 - cofounded <a href="https://mandioca.pl">Mandioca</a>, a Latin American graphic novel publisher. 
 
