@@ -16,7 +16,7 @@ Currently I teach myself programming in Python, Machine Learning in general and 
 ### Projects
 - <a href="https://github.com/MarekCichy/pt-br-classifier">PT/BR Classifier</a>, classifying Portuguese texts according to their variety (European or Brasilian Portuguese) 
 - <a href="https://github.com/MarekCichy/isitnsfw_bot">NSFW-bot</a>, Tweepy-based tweetbot consuming several image classification APIs
-- Pyster, script for automated posting on an invite-only forum powered by pyautogui. (to be uploaded till end of August)
+- <a href="https://github.com/MarekCichy/pyster">Pyster</a>, a script for automated posting on an invite-only forum.
 
 ### Articles on ML and Python
 - <a href="https://medium.com/@marekkcichy/does-ai-have-a-dirty-mind-too-6948430e4b2b">Does AI have a dirty mind, too?</a>
