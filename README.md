@@ -35,6 +35,8 @@ Currently I teach myself programming in Python, Machine Learning in general and 
 - Self-learning Python, ML and NLP from a linguist perspective
 - The PT/BR Classifier
 - The Pyster
+### Reading:
+- Introduction to Statistical Learning by Tibshirani et al. (under way)
 
 ## Full resume:
 
