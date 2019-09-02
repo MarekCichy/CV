@@ -1,7 +1,7 @@
 # Marek Cichy - Curriculum
 
 ## My current goal
-First full-time professional experience with Natural Language Processing (NLP)
+Career transition into a data scientist with focus on NLP from a Polish-Portuguese translator and interpreter.
 
 ## My background
 Warsaw-based Portuguese language specialist with 8 years of experience. In this time I've:
