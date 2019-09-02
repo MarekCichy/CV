@@ -40,4 +40,4 @@ Currently I teach myself programming in Python, Machine Learning in general and 
 
 ## Full resume:
 
-See the conventional version of the resume <a href="https://github.com/MarekCichy/CV/blob/master/Cichy%20Marek_CV_en.pdf">here</a>.
+See the conventional version of the resume <a href="https://github.com/MarekCichy/CV/blob/master/Cichy%20Marek_CV.pdf">here</a>.
