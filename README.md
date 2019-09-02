@@ -1,7 +1,7 @@
 # Marek Cichy - Curriculum
 
 ## My current goal
-Career transition into a data scientist with focus on NLP from a Polish-Portuguese translator and interpreter.
+Career transition into a data scientist with focus on NLP from a Polish-Portuguese translation and interpretation role.
 
 ## My background
 Warsaw-based Portuguese language specialist with 8 years of experience. In this time I've:
