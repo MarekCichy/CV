@@ -24,7 +24,7 @@ Currently I teach myself programming in Python, Machine Learning in general and 
 
 ### Books and courses
 - <a href="https://www.py4e.com/">Python for Everybody</a> by Charles Severance
-- 17 <a href="https://www.datacamp.com/profile/cichymk">DataCamp courses</a> completed
+- 18 <a href="https://www.datacamp.com/profile/cichymk">DataCamp courses</a> completed
 
 ## Next steps
 ### Upgrading the PT/BR Classifier:
