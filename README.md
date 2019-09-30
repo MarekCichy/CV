@@ -28,7 +28,6 @@ Currently I teach myself programming in Python, Machine Learning in general and 
 
 ## Next steps
 ### Upgrading the PT/BR Classifier:
-- setting up a basic frontend to show its operation;
 - adding basic XAI to the frontend;
 - adding an LSTM-based version of the classifier.
 ### Writing about:
