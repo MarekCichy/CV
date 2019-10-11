@@ -21,6 +21,7 @@ Currently I teach myself programming in Python, Machine Learning in general and 
 ### Articles on ML and Python
 - <a href="https://medium.com/@marekkcichy/does-ai-have-a-dirty-mind-too-6948430e4b2b">Does AI have a dirty mind, too?</a>
 - <a href="https://medium.com/@marekkcichy/how-to-set-up-an-obscenely-easy-tweetbot-in-python-7837d776e706">How to set up an obscenely easy tweetbot with Python</a>
+- <a href="https://medium.com/@marekkcichy/nlp-basics-hands-on-a-portuguese-dialect-classifier-deployed-online-in-3-steps-53a8b3b88ea9">NLP basics, hands-on: a language classifier deployed online in 3 steps</a>
 
 ### Books and courses
 - <a href="https://www.py4e.com/">Python for Everybody</a> by Charles Severance
@@ -32,7 +33,6 @@ Currently I teach myself programming in Python, Machine Learning in general and 
 - adding an LSTM-based version of the classifier.
 ### Writing about:
 - Self-learning Python, ML and NLP from a linguist perspective
-- The PT/BR Classifier
 - The Pyster
 ### Reading:
 - Introduction to Statistical Learning by Tibshirani et al. (under way)
