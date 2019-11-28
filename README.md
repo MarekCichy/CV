@@ -27,6 +27,9 @@ Currently I teach myself programming in Python, Machine Learning in general and 
 - <a href="https://www.py4e.com/">Python for Everybody</a> by Charles Severance
 - 19 <a href="https://www.datacamp.com/profile/cichymk">DataCamp courses</a> completed
 
+### Talks
+- "I scraped 5000 TED talks and know my sambas from my fados" on <a href="https://conference.mlinpl.org/#studentsday">ML in PL Conference 2019</a>
+
 ## Next steps
 ### Upgrading the PT/BR Classifier:
 - adding basic XAI to the frontend;
