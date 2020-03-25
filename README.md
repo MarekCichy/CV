@@ -28,7 +28,7 @@ Currently I teach myself programming in Python, Machine Learning in general and 
 - 19 <a href="https://www.datacamp.com/profile/cichymk">DataCamp courses</a> completed
 
 ### Talks
-<img src="http://marekcichy.alwaysdata.net/mlinpl.jpg" height="42" width="42">
+<img src="http://marekcichy.alwaysdata.net/mlinpl.jpg" height="200" width="300">
 - "I scraped 5000 TED talks and know my sambas from my fados" on <a href="https://conference.mlinpl.org/#studentsday">ML in PL Conference 2019</a>
 
 
