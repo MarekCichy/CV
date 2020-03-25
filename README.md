@@ -9,11 +9,14 @@ Warsaw-based Portuguese language specialist with 8 years of experience. In this 
 - created and managed <a href="https://audioteka.com/es/">Audioteka.es</a>, the Spanish-speaking version of a Polish audiobook startup
 - cofounded <a href="https://mandioca.pl">Mandioca</a>, a Latin American graphic novel publisher. 
 
-Currently I teach myself programming in Python, Machine Learning in general and NLP in particular under <a href="https://github.com/stared">Piotr Migdał</a>'s guidance. 
+Currently I continue self-learning of Python, Machine Learning in general and NLP in particular under <a href="https://github.com/stared">Piotr Migdał</a>'s guidance. I also participate in the <a href="https://omdena.com/challenges/ai-energy">WEC Omdena (AI4Good) energy transition challenge</a>. 
 
 ## Recently finished:
 
-### Projects
+### External projects 
+- Omdena + SexedPL's challenge: <a href="https://omdena.com/challenges/ai-sex-education">Analyzing the Importance of Sex Education With AI</a>
+
+### Private projects
 - <a href="https://github.com/MarekCichy/pt-br-classifier">PT/BR Classifier</a>, classifying Portuguese texts according to their variety (European or Brasilian Portuguese) 
 - <a href="https://github.com/MarekCichy/isitnsfw_bot">NSFW-bot</a>, Tweepy-based tweetbot consuming several image classification APIs
 - <a href="https://github.com/MarekCichy/pyster">Pyster</a>, a script for automated posting on an invite-only forum.
