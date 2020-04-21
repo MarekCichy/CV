@@ -22,9 +22,14 @@ Currently I continue self-learning of Python, Machine Learning in general and NL
 - <a href="https://github.com/MarekCichy/pyster">Pyster</a>, a script for automated posting on an invite-only forum.
 
 ### Articles on ML and Python
-- <a href="https://medium.com/@marekkcichy/does-ai-have-a-dirty-mind-too-6948430e4b2b">Does AI have a dirty mind, too?</a>
-- <a href="https://medium.com/@marekkcichy/how-to-set-up-an-obscenely-easy-tweetbot-in-python-7837d776e706">How to set up an obscenely easy tweetbot with Python</a>
+- <a href="https://medium.com/omdena/collaborator-insights-are-women-objectified-in-polish-popular-music-nlp-applied-41965477851b">Collaborator Insights: Are Women Objectified in Polish Popular Music? NLP Applied.</a>
+- <a href="https://medium.com/@marekkcichy/how-i-didnt-become-a-data-scientist-in-6-months-afd36829a35c">How I didn’t become a Data Scientist in 6 months</a>
+- <a href="https://medium.com/data-hackers/como-criar-um-detector-de-sotaques-de-portugu%C3%AAs-com-palestras-ted-3487672f4f3b">Como criar um detector de sotaques de português com palestras TED</a>
 - <a href="https://medium.com/@marekkcichy/nlp-basics-hands-on-a-portuguese-dialect-classifier-deployed-online-in-3-steps-53a8b3b88ea9">NLP basics, hands-on: a language classifier deployed online in 3 steps</a>
+- <a href="https://medium.com/@marekkcichy/how-to-set-up-an-obscenely-easy-tweetbot-in-python-7837d776e706">How to set up an obscenely easy tweetbot with Python</a>
+- <a href="https://medium.com/@marekkcichy/does-ai-have-a-dirty-mind-too-6948430e4b2b">Does AI have a dirty mind, too?</a>
+
+
 
 ### Books and courses
 - <a href="https://www.py4e.com/">Python for Everybody</a> by Charles Severance
