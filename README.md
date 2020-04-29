@@ -14,6 +14,7 @@ Currently I continue self-learning of Python, Machine Learning in general and NL
 ## Recently finished:
 
 ### External projects 
+- Omdena + World Energy Council project: <a href="https://omdena.com/projects/ai-energy">AI for Energy: Transitioning toward a Sustainable Energy System </a> in the role of ML Engineer
 - Omdena + SexedPL's challenge: <a href="https://omdena.com/challenges/ai-sex-education">Analyzing the Importance of Sex Education With AI</a> in the role of Junior ML Engineer
 
 ### Private projects
