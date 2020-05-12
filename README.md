@@ -43,13 +43,18 @@ Currently I continue self-learning of Python, Machine Learning in general and NL
 
 ## Next steps
 ### Upgrading the PT/BR Classifier:
+- exploring the errors for patterns;
 - adding basic XAI to the frontend;
-- adding an LSTM-based version of the classifier.
+- checking out an LSTM-based version of the classifier.
+- broadening the corpus (crowdsourced movie subtitles, YT comments, etc.)
+
 ### Writing about:
-- Self-learning Python, ML and NLP from a linguist perspective
-- The Pyster
+- PT/BR Classifier pt 2, 
+- My experience with collaborative challenges in Omdena
+
 ### Reading:
 - Introduction to Statistical Learning by Tibshirani et al. (under way)
+- Deep Learning in Python by Francois Chollet
 
 ## Full resume:
 
