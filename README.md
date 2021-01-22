@@ -33,6 +33,7 @@ Currently I continue self-learning of Python, Machine Learning in general and NL
 
 
 ### Books and courses
+- Data Scientist in Python learning path on <a href='https://app.dataquest.io/profile/cichy.mk'>DataQuest</a>
 - <a href="https://www.py4e.com/">Python for Everybody</a> by Charles Severance
 - 19 <a href="https://www.datacamp.com/profile/cichymk">DataCamp courses</a> completed
 
@@ -41,7 +42,7 @@ Currently I continue self-learning of Python, Machine Learning in general and NL
 - "I scraped 5000 TED talks and know my sambas from my fados" on <a href="https://conference.mlinpl.org/#studentsday">ML in PL Conference 2019</a>
 
 
-## Next steps
+## Probable next steps
 ### Upgrading the PT/BR Classifier:
 - exploring the errors for patterns;
 - adding basic XAI to the frontend;
