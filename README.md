@@ -56,7 +56,3 @@ Currently I continue self-learning of Python, Machine Learning in general and NL
 ### Reading:
 - Introduction to Statistical Learning by Tibshirani et al. (under way)
 - Deep Learning in Python by Francois Chollet
-
-## Full resume:
-
-See the conventional version of the resume <a href="https://github.com/MarekCichy/CV/blob/master/Cichy%20Marek_CV_en.pdf">here</a>.
