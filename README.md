@@ -11,7 +11,7 @@ Warsaw-based Portuguese language specialist with 8 years of experience. In this 
 
 Currently I continue self-learning of Python, Machine Learning in general and NLP in particular under <a href="https://github.com/stared">Piotr Migdał</a>'s guidance. I've just finished the <a href="https://omdena.com/challenges/ai-energy">WEC Omdena (AI4Good) energy transition project</a> in the roles of ML Engineer and Task Manager. 
 
-## Recently finished:
+## Portfolio:
 
 ### External projects 
 - Omdena + World Energy Council project: <a href="https://omdena.com/projects/ai-energy">AI for Energy: Transitioning toward a Sustainable Energy System </a> in the role of ML Engineer
